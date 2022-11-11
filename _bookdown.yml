@@ -16,6 +16,7 @@ rmd_files: [
   'sample_project.Rmd',
 
   # Part: Cheatsheets
+  'ggmap_cheatsheet.Rmd',
  
   # Part: Tutorials
   'mapcharts.Rmd',
